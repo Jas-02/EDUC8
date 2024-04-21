@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791500667716",
+    "project_id": "educ8-778c9",
+    "storage_bucket": "educ8-778c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791500667716:android:7ac564d507cdd8c35f7511",
+        "android_client_info": {
+          "package_name": "com.example.educ8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx4W5qIN0UEwGGNQZxPO4Sm7enZcN49M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
